@@ -1,4 +1,4 @@
-# ADEX-A-DApp-for-the-Decentralized-Marketplac
+# ADEX-A-DApp-for-the-Decentralized-Marketplace
 A decentralized permissionless exchange interact with blockchain through smart contracts written in Solidity and connected to Frontend using React.js. Allows peer-to-peer exchange of token/crypto assets without an intermediary party. Each participant controls his/her own asset (private key). All transactions are written on the blockchain and are transparent for the public to see. All transactions after confirmation are immutable. Allows trading of ERC-20 token
 
 

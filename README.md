@@ -25,8 +25,6 @@ All transactions after confirmation are immutable. Allows trading of ERC-20 toke
 DEMO
 
 
-![dapp2](https://user-images.githubusercontent.com/62199596/132126314-b2918724-39be-4edb-8d3a-d1a53d4d90b8.jpeg)
-
 
 
 
